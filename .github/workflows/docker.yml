@@ -1,4 +1,4 @@
-name: CI/CD Pipeline for Streamlit App   # Trigger CI/CD after token update
+name: CI/CD Pipeline for Streamlit App   # Trigger CI/CD after token updated version
 
 
 
